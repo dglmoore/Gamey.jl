@@ -1,0 +1,6 @@
+authors = ["Jake Hanson <jake.hanson@asu.edu>"]
+name = "Gamey"
+uuid = "703f487c-bdeb-11e8-2547-bff9f427c3cf"
+version = "0.1.0"
+
+[deps]
